@@ -1,1 +1,3 @@
-print('sdfsdfsdfsdfsdfsdfsdf')
+print('sdfsdf')
+def asddas():
+    pass
