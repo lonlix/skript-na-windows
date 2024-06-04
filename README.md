@@ -1,1 +1,1 @@
-ya pohytila
+ny i vali 
